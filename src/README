@@ -1,0 +1,10 @@
+# To activate the virtual env
+# pipenv shell
+
+# To run server
+# python manage.py runserver
+
+
+# After making changes to models.py
+# python manage.py makemigrations
+# python manage.py migrate
